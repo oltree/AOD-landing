@@ -843,8 +843,8 @@ h6 {
   font-style: italic;
 }
 .subscribe__input .input.focus {
-  font-style: normal;
   color: #333;
+  font-style: normal;
 }
 .subscribe__input .input.err {
   border: 1px solid red;
